@@ -31,9 +31,9 @@ model for predicting the price of the house and number
 
 of occupants in the house with SGD regressor.
 
-Developed by: Ragala Sai Vivek
+Developed by: Rajathurai K
 
-RegisterNumber:212223230163 
+RegisterNumber:25016579
 ```
 ``` python
 import numpy as np
